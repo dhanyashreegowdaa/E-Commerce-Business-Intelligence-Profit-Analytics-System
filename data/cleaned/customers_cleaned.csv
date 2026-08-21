@@ -1,0 +1,101 @@
+customer_id,customer_name,city,state,customer_segment,signup_date
+C0001,George Rai,Chennai,Tamil Nadu,New,2024-10-27
+C0002,Hemangini Lalla,Kolkata,West Bengal,Premium,2026-05-01
+C0003,Tripti Yadav,Kochi,Kerala,New,2024-11-17
+C0004,Farhan Memon,Hyderabad,Telangana,Regular,2026-05-19
+C0005,Rehaan Boase,Bengaluru,Karnataka,New,2024-09-17
+C0006,Bimala Buch,Chennai,Tamil Nadu,Regular,2026-06-08
+C0007,Harrison Rai,Mysuru,Karnataka,New,2025-03-16
+C0008,Janya Gaba,Delhi,Delhi,Regular,2025-05-27
+C0009,Shaurya Loke,Chennai,Tamil Nadu,Regular,2026-02-09
+C0010,Onveer Walla,Pune,Maharashtra,Regular,2026-03-02
+C0011,Nihal Shere,Pune,Maharashtra,New,2025-06-03
+C0012,Theodore Nair,Kochi,Kerala,Regular,2026-05-29
+C0013,Veer Balay,Pune,Maharashtra,Regular,2026-04-30
+C0014,Nandini Loyal,Mumbai,Maharashtra,Regular,2024-10-03
+C0015,Divya Kala,Mumbai,Maharashtra,New,2026-01-04
+C0016,Meghana Shanker,Mumbai,Maharashtra,Regular,2024-12-01
+C0017,Liam Koshy,Pune,Maharashtra,New,2026-03-14
+C0018,Priya Rastogi,Hyderabad,Telangana,Regular,2025-05-21
+C0019,Lakshit Upadhyay,Chennai,Tamil Nadu,Regular,2025-08-31
+C0020,Champak Choudhary,Hyderabad,Telangana,New,2024-12-09
+C0021,Pahal Bhatt,Mysuru,Karnataka,Regular,2025-06-07
+C0022,Upadhriti Wadhwa,Chennai,Tamil Nadu,Regular,2025-02-24
+C0023,Ishwar Yadav,Chennai,Tamil Nadu,Regular,2026-03-19
+C0024,Harini Choudhury,Delhi,Delhi,New,2025-03-28
+C0025,Nakul Setty,Kochi,Kerala,Premium,2024-08-15
+C0026,Xiti Gokhale,Delhi,Delhi,Regular,2025-09-11
+C0027,Chanchal Tripathi,Mumbai,Maharashtra,New,2025-11-29
+C0028,Michael Prakash,Kochi,Kerala,New,2026-03-28
+C0029,Aadi Naik,Mysuru,Karnataka,New,2025-08-27
+C0030,Isaac Patil,Pune,Maharashtra,Regular,2026-06-26
+C0031,Wriddhish Bhardwaj,Kolkata,West Bengal,Premium,2025-02-16
+C0032,Frederick Sunder,Bengaluru,Karnataka,Premium,2026-05-08
+C0033,Jeremiah Dave,Delhi,Delhi,Regular,2026-01-07
+C0034,Noah Lanka,Mumbai,Maharashtra,Regular,2025-09-26
+C0035,Siddharth Zacharia,Delhi,Delhi,New,2026-03-22
+C0036,Devika Rastogi,Kochi,Kerala,Regular,2026-01-16
+C0037,Raksha Varughese,Mumbai,Maharashtra,New,2025-07-29
+C0038,Yug Kar,Mumbai,Maharashtra,New,2024-10-01
+C0039,Ansh Karpe,Hyderabad,Telangana,New,2025-11-13
+C0040,Abhimanyu Bobal,Kochi,Kerala,Regular,2026-02-13
+C0041,Veer Bir,Mumbai,Maharashtra,Regular,2024-09-06
+C0042,Ekavir Varkey,Bengaluru,Karnataka,Regular,2025-02-13
+C0043,Vedika Kala,Mumbai,Maharashtra,Regular,2025-10-05
+C0044,Urvashi Kibe,Kochi,Kerala,Premium,2026-04-14
+C0045,Niharika Gupta,Hyderabad,Telangana,New,2024-10-25
+C0046,Raagini Pandya,Kochi,Kerala,Regular,2025-07-08
+C0047,Unni Bhagat,Kochi,Kerala,Regular,2026-01-18
+C0048,Darsh Rau,Kolkata,West Bengal,Regular,2026-03-01
+C0049,Ikbal Kothari,Hyderabad,Telangana,Regular,2025-01-08
+C0050,Saumya Dey,Delhi,Delhi,Premium,2025-07-06
+C0051,Arya Shere,Hyderabad,Telangana,Regular,2025-02-23
+C0052,Saanvi Chaudhari,Mysuru,Karnataka,Regular,2024-09-21
+C0053,Girik Khalsa,Bengaluru,Karnataka,Regular,2024-12-20
+C0054,Vedika Srivastava,Chennai,Tamil Nadu,Regular,2025-01-26
+C0055,Daniel Gala,Chennai,Tamil Nadu,Regular,2025-06-03
+C0056,Madhavi Lanka,Kolkata,West Bengal,Premium,2026-04-14
+C0057,Bhavika Sampath,Mysuru,Karnataka,New,2026-02-05
+C0058,Mohammed Gupta,Mysuru,Karnataka,Regular,2025-03-31
+C0059,Dalbir Bhat,Bengaluru,Karnataka,Regular,2026-03-16
+C0060,Dakshesh Bedi,Kochi,Kerala,Regular,2025-11-09
+C0061,Yadavi Wali,Mysuru,Karnataka,New,2024-12-13
+C0062,Yashoda Buch,Delhi,Delhi,New,2026-06-05
+C0063,Ekapad Bir,Mumbai,Maharashtra,Regular,2026-01-19
+C0064,Netra Dar,Kolkata,West Bengal,Regular,2026-07-05
+C0065,Balveer Bumb,Mumbai,Maharashtra,Premium,2025-07-04
+C0066,Advika Jayaraman,Hyderabad,Telangana,New,2026-01-15
+C0067,William Lanka,Ahmedabad,Gujarat,Regular,2025-06-16
+C0068,Charita Shankar,Chennai,Tamil Nadu,Premium,2025-04-15
+C0069,Aditya Shanker,Hyderabad,Telangana,Regular,2025-12-08
+C0070,Ethan Yogi,Delhi,Delhi,Regular,2025-01-25
+C0071,Kevin Palla,Delhi,Delhi,Premium,2026-06-28
+C0072,Yash Pingle,Mumbai,Maharashtra,New,2025-03-22
+C0073,Raksha Mittal,Delhi,Delhi,Regular,2025-12-01
+C0074,Chandani Chawla,Ahmedabad,Gujarat,New,2026-06-26
+C0075,Aishani D’Alia,Bengaluru,Karnataka,Regular,2026-07-05
+C0076,Nachiket Magar,Hyderabad,Telangana,Regular,2025-03-19
+C0077,Hemal Jani,Pune,Maharashtra,New,2026-01-28
+C0078,Yashasvi Suresh,Chennai,Tamil Nadu,Regular,2025-02-24
+C0079,George Sampath,Ahmedabad,Gujarat,Regular,2026-05-19
+C0080,Chaitanya Aggarwal,Ahmedabad,Gujarat,Regular,2025-04-29
+C0081,Adweta Edwin,Hyderabad,Telangana,Regular,2026-03-11
+C0082,Prisha Andra,Mumbai,Maharashtra,New,2024-11-07
+C0083,Manthan Banik,Ahmedabad,Gujarat,Regular,2026-05-23
+C0084,Manbir Sani,Mumbai,Maharashtra,Regular,2024-11-19
+C0085,Darika Patla,Delhi,Delhi,Regular,2026-07-12
+C0086,Ishita Kade,Delhi,Delhi,New,2026-01-24
+C0087,Harshil Pandya,Kochi,Kerala,Premium,2026-04-10
+C0088,Mohammed Khalsa,Kochi,Kerala,Regular,2026-06-15
+C0089,Peter Sachar,Delhi,Delhi,Regular,2024-09-01
+C0090,Gaurangi Sabharwal,Mysuru,Karnataka,Premium,2026-04-28
+C0091,Amara Dutta,Ahmedabad,Gujarat,Regular,2026-04-16
+C0092,Lavanya Barad,Bengaluru,Karnataka,New,2026-06-10
+C0093,Tristan Iyengar,Delhi,Delhi,Regular,2026-05-09
+C0094,Inaya Mody,Kolkata,West Bengal,New,2026-05-12
+C0095,Udant Bajwa,Mysuru,Karnataka,Premium,2026-01-07
+C0096,Mohini Narasimhan,Mysuru,Karnataka,New,2025-03-17
+C0097,Arya Panchal,Mumbai,Maharashtra,New,2025-12-24
+C0098,Garima Bala,Kolkata,West Bengal,Regular,2024-11-10
+C0099,Pranav Lanka,Bengaluru,Karnataka,Premium,2024-09-11
+C0100,Radha Pai,Bengaluru,Karnataka,Premium,2026-03-01

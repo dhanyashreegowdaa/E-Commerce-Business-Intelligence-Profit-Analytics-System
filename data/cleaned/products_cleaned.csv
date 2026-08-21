@@ -1,0 +1,51 @@
+product_id,product_name,category,cost_price,selling_price,supplier_id
+P001,Jacket 352,Fashion,21710.86,27812.76,S010
+P002,Perfume 975,Beauty,25808.88,36560.51,S003
+P003,Machine Learning 746,Books,8692.1,10250.36,S004
+P004,Smartphone 876,Electronics,995.12,1247.78,S007
+P005,Hair Oil 134,Beauty,45484.16,57603.46,S008
+P006,Shampoo 489,Beauty,10555.49,14835.37,S002
+P007,Jeans 301,Fashion,44762.4,63520.31,S008
+P008,Body Lotion 801,Beauty,16401.45,21730.36,S002
+P009,Statistics 316,Books,14190.54,19784.64,S009
+P010,Python Programming 956,Books,49346.97,73897.59,S008
+P011,Bedsheet 692,Home & Kitchen,35624.83,53636.0,S005
+P012,Handbag 140,Fashion,45764.99,70135.64,S002
+P013,Mouse 506,Electronics,33508.29,48575.8,S008
+P014,Bedsheet 838,Home & Kitchen,6155.79,9054.92,S001
+P015,DSA Guide 602,Books,38594.17,52959.23,S009
+P016,Sunglasses 991,Fashion,5572.99,6487.76,S007
+P017,Smart Watch 195,Electronics,34836.7,42246.44,S007
+P018,Atomic Habits 624,Books,4033.6,5164.57,S006
+P019,Shampoo 781,Beauty,40444.39,58038.98,S006
+P020,Moisturizer 897,Beauty,44187.36,57264.84,S007
+P021,Body Lotion 330,Beauty,45360.06,57718.84,S009
+P022,Body Lotion 358,Beauty,546.22,753.69,S009
+P023,Python Programming 918,Books,13616.73,17155.13,S006
+P024,Smart Watch 212,Electronics,3431.63,4338.48,S007
+P025,Saree 212,Fashion,7574.73,12111.87,S001
+P026,Jeans 319,Fashion,2763.64,3524.72,S001
+P027,Headphones 737,Electronics,7415.76,10161.47,S006
+P028,Sunscreen 302,Beauty,18608.79,23427.95,S006
+P029,Atomic Habits 709,Books,31749.78,44167.07,S001
+P030,Keyboard 563,Electronics,2230.6,3158.31,S004
+P031,Air Fryer 610,Home & Kitchen,11479.49,16534.23,S004
+P032,Laptop 739,Electronics,25984.02,39676.81,S009
+P033,Smartphone 250,Electronics,27164.11,39743.89,S007
+P034,Makeup Kit 723,Beauty,27849.0,38663.96,S002
+P035,Bluetooth Speaker 136,Electronics,44155.29,54528.17,S009
+P036,Bedsheet 915,Home & Kitchen,42363.72,65042.97,S006
+P037,Tablet 727,Electronics,4390.17,5368.01,S006
+P038,Perfume 211,Beauty,5253.28,7609.77,S002
+P039,Jeans 921,Fashion,22531.52,35994.24,S004
+P040,Smart Watch 900,Electronics,24795.91,30510.63,S008
+P041,Mixer Grinder 739,Home & Kitchen,28501.77,33978.49,S003
+P042,Machine Learning 537,Books,45323.72,60982.04,S005
+P043,Laptop 552,Electronics,11663.23,16032.71,S004
+P044,Mixer Grinder 611,Home & Kitchen,9020.11,14190.49,S005
+P045,Storage Box 136,Home & Kitchen,46430.26,62341.11,S005
+P046,Mixer Grinder 215,Home & Kitchen,14863.55,19668.85,S007
+P047,Headphones 227,Electronics,18759.81,24905.73,S006
+P048,Saree 971,Fashion,3706.72,4611.21,S006
+P049,Sunglasses 485,Fashion,16263.03,24913.36,S009
+P050,Lamp 275,Home & Kitchen,27730.43,35590.05,S010

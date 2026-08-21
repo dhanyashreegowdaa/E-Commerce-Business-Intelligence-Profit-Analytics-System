@@ -1,0 +1,11 @@
+supplier_id,supplier_name,lead_time_days,supplier_rating
+S001,"Choudhury, Bakshi and Maharaj",8,4.6
+S002,Kapoor and Sons,9,4.2
+S003,"Chaudry, Chahal and Sami",8,3.9
+S004,Balan Inc,8,3.1
+S005,Kaul PLC,9,3.7
+S006,"Bala, Issac and Saini",9,4.4
+S007,Sen PLC,7,3.1
+S008,Ahuja-Dutta,9,4.7
+S009,"Sami, Oak and Mall",7,3.0
+S010,Kale LLC,6,4.2
